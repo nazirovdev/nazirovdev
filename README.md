@@ -1,4 +1,4 @@
-<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/khairulanas/khairulanas/master/sinobu.png">
+<img display="float" align="right" width="300" src="https://raw.githubusercontent.com/nazirovdev/nazirovdev/main/minato.png">
 
 ## Ka~ ka~
 
