@@ -1,13 +1,11 @@
 <img display="float" align="right" width="400" src="https://raw.githubusercontent.com/nazirovdev/nazirovdev/main/pngkey.com-minato-png-7286286.png">
 
-## Ka~ ka~
+## Nazir Azhari ~Ari
 
-Magical Mode | Multidimensional Existence | Afterlife Capitalist
+Learn | Practice | Modification
 
 
-- 🎯 Working on flutter
-- 🦄 Open for collaboration
-- 🐱‍👤 Coffee nin nin
+- 🎯 Working on Javascript
 
 
 ## Social media :mailbox_with_no_mail:
