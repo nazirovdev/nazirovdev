@@ -1,4 +1,4 @@
-<img display="float" align="right" width="500" src="https://raw.githubusercontent.com/nazirovdev/nazirovdev/main/minato.png">
+<img display="float" align="right" width="500" src="https://raw.githubusercontent.com/nazirovdev/nazirovdev/main/pngkey.com-minato-png-7286286.png">
 
 ## Ka~ ka~
 
